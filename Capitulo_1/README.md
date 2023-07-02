@@ -23,4 +23,5 @@ O autor ressalta que o código sujo as vezes parece tentador, principalmente com
 "Deixe a área do acampamento mais limpa do que como você a encontrou"
 
 aplicando essa regra para a programação seria:
+
 Deixe o seu código mais limpo do que como você o encontrou
