@@ -21,10 +21,15 @@ A formatação vertical vai retratar sobre o tamanho do seu código, arquivos co
 linearidade para se facilitar o seu entendimento, caso o contrário, o leitor do seu código irá ter muito trabalho.
 
 ### Espaçamento vertical entre conceitos
+Um código sem quebra de linha, com um amontoado de palavras compactadas pode tornar o código difícil de ler, quando há
+quebra de linha separando conceitos como funções separadas de outras funções ou declaração/instanciação de variáveis torna o código
+mais legível.
 
 ### Continuidade vertical
+Como dito antes, a instaciação ou declaração de variáveis juntas cria um nível de entendimento maior.
 
 ### Distância vertical
+
 
 ### Ordenação vertical
 
