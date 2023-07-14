@@ -30,6 +30,7 @@ Como dito antes, a instaciação ou declaração de variáveis juntas cria um n�
 
 ### Distância vertical
 A separação vertical dos conceitos é muito importante para a garantia de uma boa leitura de código.
+
 #### Declaração de váriáveis
 As variáveis devem ser declaradas o mais próximo possível de onde serão usadas, por exemplo, em funções devemos
 declará-las no topo do escopo da função.
@@ -48,6 +49,4 @@ De modo geral queremos que as chamadas das dependências sejam ordenadas, isto �
 Os tamanhos de linhas importam, um código com linhas de 80 caracteres são difíceis de ler, pois necessita de scroll lateral para ser lido.
 
 ### Espaçamento e continuidade horizontal
-
-
-### Alinhamento horizontal
+Os principais motivos de se utilizar o espaçamento horizontal é para dar destaque e/ou desassociar coisas fracamente relacionadas.
